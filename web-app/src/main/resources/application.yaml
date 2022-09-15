@@ -1,0 +1,9 @@
+server:
+  port: 8080
+forex:
+  apiKey: "ef14e8b5fe-567ac73b4a-ri3jow"
+logging:
+  level:
+    root: info
+  file:
+    path: "logs"

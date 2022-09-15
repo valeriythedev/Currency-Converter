@@ -1,0 +1,5 @@
+rootProject.name = 'CurrencyConverterRelease'
+include 'web-app'
+include 'service'
+include 'interface'
+

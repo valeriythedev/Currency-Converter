@@ -1,0 +1,15 @@
+.idea
+
+
+#gradle
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+.gradle
+
+#subprojects
+/web-app/build
+/service/build
+/interface/build
+/web-ui/node_modules
+/web-ui/build

@@ -1,0 +1,15 @@
+bootRun {
+    enabled = false
+}
+
+bootJar {
+    enabled = false
+}
+
+dependencies {
+    implementation project(':service')
+}
+
+jar {
+    enabled = true
+}
