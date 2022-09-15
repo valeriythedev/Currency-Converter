@@ -1,6 +1,5 @@
 .idea
 
-
 #gradle
 gradle/wrapper/gradle-wrapper.jar
 gradlew
@@ -13,3 +12,7 @@ gradlew.bat
 /interface/build
 /web-ui/node_modules
 /web-ui/build
+/web-ui/web-ui.iml
+
+#logs
+/logs/spring.log
