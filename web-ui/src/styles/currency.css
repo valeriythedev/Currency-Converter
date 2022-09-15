@@ -1,0 +1,16 @@
+.currency-list {
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.currency-input {
+    margin: 10px;
+    display: flex;
+    text-align: center;
+
+}
